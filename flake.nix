@@ -3,9 +3,9 @@
 
   inputs = {
     nixpkgs.url = "nixpkgs/nixos-unstable";
-    ondsel-appimage-x86_64-linux.url = "https://github.com/Ondsel-Development/FreeCAD/releases/download/2024.1.0/Ondsel_ES_2024.1.0.35694-Linux-x86_64.AppImage";
+    ondsel-appimage-x86_64-linux.url = "https://github.com/Ondsel-Development/FreeCAD/releases/download/2024.2.1/Ondsel_ES_2024.2.1.37226-Linux-x86_64.AppImage";
     ondsel-appimage-x86_64-linux.flake = false;
-    ondsel-appimage-aarch64-linux.url = "https://github.com/Ondsel-Development/FreeCAD/releases/download/2024.1.0/Ondsel_ES_2024.1.0.35694-Linux-aarch64.AppImage";
+    ondsel-appimage-aarch64-linux.url = "https://github.com/Ondsel-Development/FreeCAD/releases/download/2024.2.1/Ondsel_ES_2024.2.1.37226-Linux-aarch64.AppImage";
     ondsel-appimage-aarch64-linux.flake = false;
     ondsel-feedstock.url = "github:Ondsel-Development/freecad-feedstock";
     ondsel-feedstock.flake = false;
